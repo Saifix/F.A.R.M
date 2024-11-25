@@ -65,18 +65,6 @@ graph TD
 
 ---
 
-## 🖼️ Visuals
-
-### Workflow Diagram
-![Workflow](https://via.placeholder.com/800x400.png?text=Add+your+Workflow+Diagram)
-
-### Animated Demo (GIF)
-![Demo GIF](https://via.placeholder.com/800x400.png?text=Add+your+Animated+Demo)
-
-*You can replace these placeholders with your actual graphics and GIFs to visually showcase your project!*
-
----
-
 ## 🛠️ Getting Started
 
 ### Prerequisites
@@ -124,7 +112,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ## 📞 Contact
 
 If you have any questions or need support, feel free to reach out:  
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
+📧 Email: [saif_rehman08@yahoo.com](mailto:saif_rehman08@yahoo.com)
 
 ---
 
@@ -133,9 +121,6 @@ If you have any questions or need support, feel free to reach out:
 ---
 
 ### 🔗 Useful Links
-- [GitHub Repository](https://github.com/yourusername/farm)
+- [GitHub Repository](https://github.com/Saifix/F.A.R.M)
 - [Project Demo Video](https://your-demo-link.com)
 
----
-
-This `README.md` is structured to be visually appealing and informative, with suggestions for animations and visuals. Replace placeholder links and images with actual content for a polished final version.
